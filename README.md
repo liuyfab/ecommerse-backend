@@ -4,7 +4,7 @@
 This project is a backend for an ecommerce site using Node.js, MySQL, and Sequelize to perform CRUD(Create/Retrieve/Update/Delete) operations on the database using an Express server and its associated routes.There is no front-end, Insomnia is used for demonstration and testing.
 
 # Link to Youtube Walkthrough video
-https://youtu.be/mPv3n5mrfFI
+https://youtu.be/c8SlEG38-gw
 
 # Table of Contents
 * [Installation](#installation)
